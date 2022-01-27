@@ -1,0 +1,22 @@
+.input-container{
+    border-radius: 12px;
+    border: dashed 1px rgb(77, 77, 224);
+    height: 230px;
+    margin: 25px 0;
+    padding: 30px;
+    z-index: 999;
+    background-color: rgb(227 227 235);
+    position: relative;
+}
+
+.inputBox{
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+input[type="file"] {
+    display: none;
+}

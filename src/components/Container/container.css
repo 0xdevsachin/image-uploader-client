@@ -1,0 +1,20 @@
+.container{
+    height: 60vh;
+    width: 360px;
+    margin-top: 50px;
+    text-align: center;
+    padding: 30px;
+    box-shadow: 0 4px 12px rgb(177, 171, 171);
+    border-radius: 12px;
+}
+
+.heading{
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.sub-heading{
+    font-size: 14px;
+    color: rgb(87, 83, 83);
+}
