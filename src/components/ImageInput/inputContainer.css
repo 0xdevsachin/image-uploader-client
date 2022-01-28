@@ -1,7 +1,7 @@
 .input-container{
     border-radius: 12px;
     border: dashed 1px rgb(77, 77, 224);
-    height: 230px;
+    height: 30%;
     margin: 25px 0;
     padding: 30px;
     z-index: 999;
@@ -19,4 +19,21 @@
 
 input[type="file"] {
     display: none;
+}
+
+.drag{
+    font-size: 12px;
+    display: block;
+    color: rgb(87, 83, 83);
+    margin-top: 15px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.button{
+    border-radius: 7px;
+    padding: 6px;
+    cursor: pointer;
+    background: rgb(42, 69, 221);
+    color: white;
 }
